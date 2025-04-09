@@ -1,16 +1,28 @@
 # Salve :godmode:
 
-<!--
-**Luizzzin/Luizzzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👍 Meu nome é Luiz Henrique, atualmente estou cursando Ciência da Computação🧠.
 
-Here are some ideas to get you started:
+Tenho um interesse especial por backend, inteligência artificial, resolução de problemas com algoritmos, desenvolvimento de software, mobile e tudo que envolva resolver problemas com código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui no GitHub compartilho projetos, estudos e experiências que estou tendo ao longo da minha jornada.
+
+## Minhas principais tecnologias:
+<div style = "display: inline_block"><br>
+<img height="30" width="40" alt = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="30" width="40" alt = "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+
+<div>
+
+## Atualmente estudando:
+Sempre melhorando o escopo do meu conhecimento 😁🧠
+<div style = "display: inline_block"><br>
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<div>
