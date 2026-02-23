@@ -1,4 +1,4 @@
-# :godmode:
+# System.out.println("Olá Mundo!");
 
 Estudante de Ciência da Computação (2º ano) na FIAP | Técnico em Desenvolvimento de Sistemas (SENAI).
 
