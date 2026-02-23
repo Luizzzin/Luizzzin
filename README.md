@@ -1,10 +1,10 @@
-# Salve :godmode:
+# :godmode:
 
-👍 Meu nome é Luiz Henrique, atualmente estou cursando Ciência da Computação🧠.
+Estudante de Ciência da Computação (2º ano) na FIAP | Técnico em Desenvolvimento de Sistemas (SENAI).
 
-Tenho um interesse especial por backend, inteligência artificial, resolução de problemas com algoritmos, desenvolvimento de software, mobile e tudo que envolva resolver problemas com código.
+Foco em desenvolvimento back-end com Java + Spring Boot. Conhecimento intermediário em Python, React Native e Java. Aperfeiçoando lógica de programação diariamente.
 
-Aqui no GitHub compartilho projetos, estudos e experiências que estou tendo ao longo da minha jornada.
+Proativo, hands-on e curioso. Aqui compartilho projetos práticos, APIs, automações e experimentos em back-end.
 
 ## Minhas principais tecnologias:
 <div style = "display: inline_block"><br>
