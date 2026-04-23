@@ -7,7 +7,7 @@ Foco em desenvolvimento back-end com Java + Spring Boot. Conhecimento intermedi�
 Proativo, hands-on e curioso. Aqui compartilho projetos práticos, APIs, automações e experimentos em back-end.
 
 ## Minhas principais tecnologias:
-<div style = "display: flex, flex-direction: row"><br>
+<div style = "flex-direction: row"><br>
 <img height="30" width="40" alt = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="30" width="40" alt = "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
